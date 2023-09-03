@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import ReactLogo from '../assets/react.svg';
 import { useTranslation } from "react-i18next";
 import { Outlet } from "react-router-dom";
